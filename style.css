@@ -1,0 +1,462 @@
+div.container {
+    width: 1366;
+    height: 768px;
+    margin: 0 auto;
+    background-color: rgb(238, 202, 157);
+    border: 1px solid #faf5f5;
+    border-radius: 14px;
+    display: flex;
+}
+div.container2 {
+    width: 920px;
+    height: 500px;
+    margin:50px 10px 20px 30px;
+    background-color: #f9e1d3;
+    
+    border-radius: 14px;
+    box-shadow: 0px 15px 20px  #866a2f;
+    
+}
+div.container3 {
+    width: 500px;
+    height: 300px;
+    margin: 300px 200px 30px 850px;
+    background-color:  #f9e1d3;
+    
+     
+    border-radius: 14px;
+    box-shadow: 0px 15px 20px  #866a2f;
+    
+    
+    
+}
+div.container4 {
+    width: 385px;
+    height: 340px;
+    
+    background-color:  #f9e1d3;
+    margin: -420px 500px 400px 100px;
+    border-radius: 14px;
+    box-shadow: 0px 15px 20px  #866a2f;
+    
+}
+div.gallery {
+    width: 320px;
+    height: 400px;
+    border-radius: 25px; 
+    margin-left: 500px;
+    margin-top: -600px;
+    background-image: none;
+    object-fit: cover;  
+}
+.pic {border-radius: 25px;}
+.rounded-img {
+    border-radius: 20px;
+}
+div.button {
+    
+    border: none;
+    color: rgb(231, 55, 55);
+    padding: 10px;
+    text-align: center;
+    text-decoration: brown;
+    display: none;
+    font-size: 12px;
+    margin: 2px 1px;
+    margin-right: 1px;
+    margin-left: 300px;
+    cursor: pointer;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 30px;
+    display: flex;
+   
+    
+    
+    
+}
+.button1 {
+    border-radius: 8px;
+    padding: 5px 10px;
+    background-color: rgb(247, 228, 199);
+   
+    border: none;
+    float: right;
+}
+.button:hover {
+    
+    color: rgb(247, 204, 222);
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /*ចន្លោះរូបនិងbutton*/
+}
+.my-text {
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 45px;
+}
+div.p {
+    float: left;
+    margin-top: -240px;
+    padding-left: 30px;
+}
+.button2 {
+  border-radius: 12px;
+  padding: 5px 10px;
+  background-color: rgb(229, 146, 21);
+  grid-auto-rows: 20px;  
+  border: none;
+}
+div.h1 {
+    text-align: center;
+    font-size: 48px;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+}
+div.p2 {
+    text-align: center;
+    line-height: 0.5;
+}
+div.cen {
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+}
+.img-conainer {
+    
+    width: 260px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+
+
+}
+.clearfix::after {
+    content: " ";
+    clear: both;
+    display: table;
+}
+.div1 {
+    width: 200px;
+    height: 180px;
+    border: none;
+    margin-right: 10px;
+    margin-left: -20px;
+    padding: 10px;
+    float: right;
+    margin-top: 480px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+
+}
+.div2 {
+    width: 200px;
+    height: 180px;
+    border: none;
+    
+    padding: 5px;
+    float: left;
+    margin-top: -280px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+div.h3 {
+    text-align: center;
+    font-size: 28px;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    top: 30px;
+    line-height: 2;
+    
+}
+div.p3 {
+    float: left;
+    margin-top: -100px;
+    padding-left: 30px;
+}
+div.p4 {
+    float: right;
+    margin-top: -100px;
+    padding-right: 50px;
+}
+
+.my-text1 {
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 75px;
+}
+div.p5 {
+     font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 40px;
+    padding-left: -20px;
+    font-size: 20px;
+    
+}
+div.gallery1 {
+    width: 500px;
+    height: 600px;
+    border-radius: 25px; 
+    margin-left: -400px;
+    margin-top: 80px;
+    background-image: none;
+    object-fit: cover;  
+}
+div.container1 {
+    width: 1366;
+    height: 768px;
+    margin: 0 auto;
+    background-color:  #f9e1d3;;
+    border: 1px solid #faf5f5;
+    border-radius: 14px;
+    display: flex;
+}
+div.p6 {
+     font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 40px;
+    padding-left: 30px;
+    font-size: 45px;
+    
+}
+.gall {
+    width: 500px;
+    height: 600px;
+    border: none;
+    
+    
+    margin-top: 80px;
+    
+    border-radius: 20px;
+
+}
+div.p7 {
+     font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 45px;
+    
+}
+.gall8 {
+    width: 500px;
+    height: 600px;
+    border: none;
+    margin-left: 30px;
+    
+    margin-top: 80px;
+    
+    border-radius: 20px;
+
+}
+div.p8 {
+     font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 1000px;
+    padding-right: 400px;
+    font-size: 54px;
+}
+.my-text2 {
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: 30px;
+    padding-left: -25px;
+    font-size: 70px;
+}
+div.p9 {
+     font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: center;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 14px;
+    letter-spacing: 3px;
+    
+}
+div.p10 {
+     font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+    float: left;
+    padding-top: -20px;
+    padding-left: 50px;
+    font-size: 14px;
+    
+}
+.Border {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    display: block;
+    margin-top: 1050px;
+    margin-left: 330px;
+    position: relative;
+    
+}
+.my-text3 {
+    
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    
+   
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 14px;
+   
+}
+.my-text4{
+    position: absolute;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    padding-top: 980px;
+    padding-left: 650px;
+    font-size: 45px;
+   
+}
+.my-text5{
+    position: absolute;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    padding-top: 1060px;
+    padding-left: 835px;
+    font-size: 34px;
+   
+}
+.my-text6{
+    position: absolute;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    padding-top: 1170px;
+    padding-left: 830px;
+    font-size: 14px;
+   
+}
+.button3 {
+  border-radius: 12px;
+  padding: 5px 10px;
+  background-color: rgb(229, 146, 21);
+  grid-auto-rows: 20px;  
+  border: none;
+  margin-top: 70px;
+  margin-left: 830px;
+}
+div.new {
+    width: 1366;
+    height: 500px;
+    margin-top: 100px;
+    background-color: rgb(238, 202, 157);
+    border: 1px solid #faf5f5;
+    border-radius: 14px;
+    display: flex;
+    padding-top: 80px;
+    padding-left: 380px;
+    font-size: 45px;
+   
+}
+div.New{
+    width: 1366;
+    height: 500px;
+    margin-top: -250px;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 450px;
+    font-size: 14px;
+}
+.button4 {
+  border-radius: 12px;
+  padding: 5px 10px;
+  background-color: rgb(229, 146, 21);
+  grid-auto-rows: 20px;  
+  border: none;
+  position: relative; 
+  transform:translateY(-400px);
+  margin-left: 550px;
+}
+
+div.Now{
+    width: 1366;
+    height: 500px;
+    margin-top: -250px;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 450px;
+    font-size: 14px;
+
+}
+.my-text7{
+    position: absolute;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: black;
+    padding-top: 100px;
+    padding-left: 100px;
+    font-size: 45px;
+   
+}
+.my-text8{
+    position: absolute;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: rgb(45, 45, 45);
+    padding-top: 240px;
+    padding-left: 100px;
+    font-size: 14px;
+   
+}
+.gallery-img {
+    width: 250px;
+    height: 300px;
+    border-radius: 15px; 
+    margin-left: 100px;
+    margin-top: 350px;
+    background-image: none;
+    object-fit: cover;  
+}
+div.bg {
+    width: 200px;
+    height: 200px;
+    background-color: azure;
+    margin-top: 350px;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+.my-text9{
+    position: absolute;
+    font-family: "Times new Roman",'Times New Roman', Times, serif;
+    color: rgb(45, 45, 45);
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 20px;
+   
+}
+.gallery-img1 {
+    width: 500px;
+    height: 550px;
+    border-radius: 30px; 
+    margin-left: 300px;
+    margin-top: 100px;
+    background-image: none;
+    object-fit: cover;  
+}
